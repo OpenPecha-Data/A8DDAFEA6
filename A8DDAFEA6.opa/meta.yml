@@ -1,0 +1,20 @@
+id: A8DDAFEA6
+title: Toh_252-The_Fourfold_Accomplishment-v2
+type: translation
+pechas:
+- I00328954
+- I88B7CB72
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-066-010
+  eft-text-version: 1.0.1 2021
+  title: Toh_252-The_Fourfold_Accomplishment-v2
+alignment_to_base:
+  I00328954/44B3: E3AE
+  I88B7CB72/5BB5: E3AE
